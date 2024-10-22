@@ -10,4 +10,4 @@
 Afzal-Iqbal/Afzal-Iqbal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hi, this is Afzal Iqbal now a days I am interested learing c language , I am curenr learing html and css and later on  I will be learning java 
+Hi, this is Afzal Iqbal now a days I am interested learning c language , I am also learning html and css and later on  I will be learning java script 
